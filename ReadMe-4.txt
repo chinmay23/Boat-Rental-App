@@ -1,16 +1,16 @@
 Project:
-	1. I enjoyed developing this project. 
-	2. I developed an interactive application to rent a boat for one day. We offer same-day booking, no pre-bookings. Therefore, reach early and book your boat through our app. 
+Boat rental application which holds boat inventory, rental prices, boat availability, reservations and customer booking information.
+I developed an interactive application to rent a boat for one day. It offers same-day booking, no pre-bookings. Therefore, reach early and book your boat through the app. 
 	
-I tried my best to cover below-required fields :
-	1. Code is functional and runs without errors. 10 points
-	2. Strategy/approach to the project. 5 points
-	3. Includes at least 5 custom functions, at least 2 functions to include parameters. 15 points
-	4. Include at least 2 different custom classes (excludes DB base). 10 points
-	5. Include comments inline to document the code. 10 points
-	6. Include saving/retrieving data from a database. 20 points
-	7. Use inheritance with your classes (excludes DB base as this was already provided). 15 points
-	8. Include an interactive menu/program to run your project. 15 points
+Covered below-required functionalities :
+	1. Code is functional and runs without errors. 
+	2. Strategy/approach to the project.
+	3. Includes at least 5 custom functions, at least 2 functions to include parameters. 
+	4. Include at least 2 different custom classes.
+	5. Include comments inline to document the code. 
+	6. Include saving/retrieving data from a database.
+	7. Use inheritance with your classes.
+	8. Include an interactive menu/program to run your project.
 	
 
 Files: DataInteraction.py (holds the interaction of code with the database) and DataManipulation.py (holds actual database code)
